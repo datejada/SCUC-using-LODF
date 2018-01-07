@@ -1,0 +1,127 @@
+[PROJECT]
+
+[RP:ZBUS_XM-COMILLAS_V3]
+1=
+
+[GDXDISP: iic Set 3]
+PlaneDim=0
+RowDim=3
+Squeeze=1
+SqTrail0=0
+Order=1,2,3
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: pPTDF Par 4]
+PlaneDim=0
+RowDim=4
+Squeeze=1
+SqTrail0=0
+Order=1,2,3,4
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: is Set 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: pPmax Par 3]
+PlaneDim=0
+RowDim=3
+Squeeze=1
+SqTrail0=0
+Order=1,2,3
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: iic Set 4]
+PlaneDim=0
+RowDim=4
+Squeeze=1
+SqTrail0=0
+Order=1,2,3,4
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: pLSF Par 5]
+PlaneDim=0
+RowDim=5
+Squeeze=1
+SqTrail0=0
+Order=1,2,3,4,5
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: pPctmax Par 3]
+PlaneDim=0
+RowDim=3
+Squeeze=1
+SqTrail0=0
+Order=1,2,3
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: pISF Par 4]
+PlaneDim=0
+RowDim=4
+Squeeze=1
+SqTrail0=0
+Order=1,2,3,4
+Decim=7
+PlaneRownr=-1
+
+[RP:ZBUS_XM-COMILLAS_V5]
+1=
+
+[RP:MPES_XM-COMILLAS_V16]
+1=
+
+[RP:TRANSPORTATIONMODEL]
+1=
+
+[RP:CLEARLAKEDAM_SCENARIOTREE]
+1=
+
+[RP:FUNCTION]
+1=
+
+[RP:STARGENLITE_SDUC_V6]
+1=
+
+[RP:STORAGEANDNETWORK_V2.0]
+1=
+
+[RP:STARGENLITE_SDUC]
+1=user1=StarGenLite_SDUC
+2=
+
+[RP:ZBUS_SDUC]
+1=
+
+[RP:STARGENLITE_SCUC]
+1=user1=StarGenLite_SCUC
+
+[MRUFILES]
+1=C:\Users\dtejada\OneDrive - Universidad Pontificia Comillas\ProyectoXM-ACUC\02_GAMS-Model\StarGenLite_SCUC-DCOPF\StarGenLite_SCUC.lst
+2=C:\Users\dtejada\OneDrive - Universidad Pontificia Comillas\ProyectoXM-ACUC\02_GAMS-Model\StarGenLite_SCUC-DCOPF\StarGenLite_SCUC.gms
+3=C:\Users\dtejada\OneDrive - Universidad Pontificia Comillas\ProyectoXM-ACUC\02_GAMS-Model\StarGenLite_SCUC-DC\Zbus_SDUC.gms
+4=C:\Users\DIEGO\Dropbox (Personal)\Modelo_DO\IEEE118_177ContGUROBI-BalNodo\StarGenLite_SDUC.gms
+5=C:\Users\DIEGO\Dropbox (Personal)\Modelo_DO\IEEE118_177ContGUROBI-Opt1e-2\StarGenLite_SDUC.gms
+6=C:\Users\DIEGO\Dropbox (Personal)\Modelo_LODF_Losses\StorageAndNetwork_v2.0.lst
+7=C:\Users\DIEGO\Dropbox (Personal)\Modelo_EstadosYRed_14Barras_2\StorageAndNetwork_v2.0.gms
+8=C:\Users\dtejada\Dropbox (Personal)\Modelo_LODF_Losses_V1\StarGenLite_SDUC_V6.lst
+
+[OPENWINDOW_1]
+FILE0=D:\IIT\06_XM-UC_ACOPF\StarGenLite_SCUC-DCOPF\StarGenLite_SCUC.gms
+FILE1=D:\IIT\06_XM-UC_ACOPF\StarGenLite_SCUC-DCOPF\StarGenLite_SCUC.lst
+FILE2=D:\IIT\06_XM-UC_ACOPF\StarGenLite_SCUC-DCOPF\StarGenLite_SCUC.lst
+MAXIM=0
+TOP=7
+LEFT=5
+HEIGHT=400
+WIDTH=579
