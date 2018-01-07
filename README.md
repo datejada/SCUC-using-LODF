@@ -51,4 +51,4 @@ The writing criteria follow the GAMS syntaxes. For example, the * in the first c
 The output results are in salmon worksheets of the Microsoft Excel interface.
 
 ## License
-[License file](../blob/master/LICENSE)
+[License file](../master/LICENSE)
